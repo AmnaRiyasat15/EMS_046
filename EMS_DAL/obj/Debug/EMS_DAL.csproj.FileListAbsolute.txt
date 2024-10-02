@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\C#Prac\EmployeeManagementSystem\EMS_DAL\obj\Debug\EMS_DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#Prac\EmployeeManagementSystem\EMS_DAL\obj\Debug\EMS_DAL.csproj.CoreCompileInputs.cache
